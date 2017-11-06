@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">DE KotlinApp</string>
+
+    <string-array name="navigation_drawer_items_array">
+        <item>Book Your Trip</item>
+        <item>Tracking</item>
+        <item>Your Trip</item>
+        <item>Driver Info</item>
+        <item>Rate us</item>
+        <item>Reviews</item>
+        <item>Payment</item>
+        <item>Emergency Contact</item>
+        <item>Logout</item>
+    </string-array>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="title_activity_menu">menuActivity</string>
+
+    <string name="action_settings">Settings</string>
+</resources>

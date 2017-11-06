@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#b90e0d</color>
+    <color name="colorPrimaryDark">#b90e0d</color>
+    <color name="colorAccent">#000</color>
+
+    <color name="background">#FEFEFE</color>
+    <color name="white">#FFFFFF</color>
+    <color name="signup">#4C6294</color>
+
+    <color name="button_singup">#d92e2d</color>
+    <color name="background_trip">#d8d8d8</color>
+    <color name="grey">#808080</color>
+    <color name="transparent">#00000000</color>
+    <color name="black">#000000</color>
+
+    <!--Navigation Color-->
+    <color name="transparent_navigation_header">#88b90e0d</color>
+    <color name="navigation_child">#4C629f</color>
+    <color name="bluecolor">#213bbd</color>
+    <color name="green">#008000</color>
+    <color name="side_menu_Light">#E38281</color>
+    <color name="side_menu_Darks">#CC2B2a</color>
+</resources>

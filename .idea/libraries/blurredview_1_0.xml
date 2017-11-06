@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="blurredview-1.0">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.android/build-cache/664b1e31c0b856f05a09acd25bcbdf3420eca69f/output/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.android/build-cache/664b1e31c0b856f05a09acd25bcbdf3420eca69f/output/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/ru.egslava/blurredview/1.0/bd8315c0cf5e072e85549ac1fc03800825b3349f/blurredview-1.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

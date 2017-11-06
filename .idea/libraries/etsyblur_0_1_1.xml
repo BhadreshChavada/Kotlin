@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="etsyblur-0.1.1">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.android/build-cache/e0d69a462eae4894a968bae706bae5f296ca2b6e/output/res" />
+      <root url="jar://$USER_HOME$/.android/build-cache/e0d69a462eae4894a968bae706bae5f296ca2b6e/output/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.ms-square/etsyblur/0.1.1/a463196b2ca6d698ecee4f31780bdc010a9a12d6/etsyblur-0.1.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
